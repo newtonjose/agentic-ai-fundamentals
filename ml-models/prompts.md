@@ -19,7 +19,7 @@ prompt: `describe more about the three main machine learning models`
         Application: Often used in scenarios like game playing or robotics, where agents learn to make decisions through trial and error.
 
 
-prompt: `describes more applications for the 3 models type, and lets create a example of c4 system contxt model in puml.`
+prompt: `describes more applications for the 3 models type, and create a example of c4 system context model in puml.`
 
     Supervised Learning:
 
@@ -40,4 +40,4 @@ prompt: `describes more applications for the 3 models type, and lets create a ex
         Game Playing: Developing AI agents that can play and win games like chess or Go.
 
 
-prompt: `create a C4 system context model in PlantUML`
+prompt: `create a C4 system context model in PlantUML ref.: github.com/<todo: add plantumC4> `
