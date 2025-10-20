@@ -11,4 +11,7 @@
 > "Outras opções populares (especialmente para produção) são serviços como Pinecone, Weaviate e ChromaDB." 
 ``` 
 
+- Qdrant: <todo: github.com/project-link/read.me
+- a
+
 
